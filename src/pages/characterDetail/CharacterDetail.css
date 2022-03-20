@@ -1,0 +1,20 @@
+.character-header{
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.character-detail-image {
+    width: 80%;
+    height: 500px;
+}
+
+.character-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.character-detail {
+
+}
